@@ -301,3 +301,9 @@ header .header-signup:hover{
     margin-right: 24px;
     font-size: 28px;
 }
+
+::placeholder {
+    color:#6c757d;
+    opacity: 1;
+    font-size: 22px;
+  }
